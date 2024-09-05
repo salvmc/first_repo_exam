@@ -1,6 +1,6 @@
 1. Clone repo
 2. Create a file it can be WOrd or TXT format
 3. Create a branch per student about any topic that you decide
-4. Do changes in every branch trying to avoid conflicts (Not overlap text in the same lines)
+4. Do changes in every branch trying to avoid conflicts (Not overlap text in the same lines) at least 5 commints per student
 5. Merge changes 
 6. Visualize the last version of every branch and the las version of the master. 
